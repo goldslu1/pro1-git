@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="607d0eda-43ff-4eba-8594-66782d842375" name="Changes" comment="První revize&#10;&#10;Vytvoření hlavní třídy Hlavni, která umí pozdravit.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Trida.java" afterDir="false" />
+    <list default="true" id="607d0eda-43ff-4eba-8594-66782d842375" name="Changes" comment="Přidaný komentář.">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Trida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Trida.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Lukáš Goldšmíd &lt;lukas.goldsmid@uhk.cz&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -58,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680005089619</updated>
-      <workItem from="1680005091804" duration="686000" />
+      <workItem from="1680005091804" duration="1353000" />
     </task>
     <task id="LOCAL-00001" summary="První revize&#10;&#10;Vytvoření hlavní třídy Hlavni, která umí pozdravit.">
       <created>1680005640135</created>
@@ -67,7 +72,42 @@
       <option name="project" value="LOCAL" />
       <updated>1680005640135</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Třída T&#10;&#10;Zatím prázdná třída.">
+      <created>1680005821353</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680005821353</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Přidaný komentář">
+      <created>1680006085636</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680006085636</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Přidaný komentář">
+      <created>1680006146301</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680006146301</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Třída T">
+      <created>1680006339527</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680006339527</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Přidaný komentář.">
+      <created>1680006413380</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680006413380</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +126,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="První revize&#10;&#10;Vytvoření hlavní třídy Hlavni, která umí pozdravit." />
-    <option name="LAST_COMMIT_MESSAGE" value="První revize&#10;&#10;Vytvoření hlavní třídy Hlavni, která umí pozdravit." />
+    <MESSAGE value="Třída T&#10;&#10;Zatím prázdná třída" />
+    <MESSAGE value="Třída T&#10;&#10;Zatím prázdná třída." />
+    <MESSAGE value="Přidaní komentář" />
+    <MESSAGE value="Třída T" />
+    <MESSAGE value="Přidaný komentář" />
+    <MESSAGE value="Přidaný komentář." />
+    <option name="LAST_COMMIT_MESSAGE" value="Přidaný komentář." />
   </component>
 </project>
