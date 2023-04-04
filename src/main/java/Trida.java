@@ -1,5 +1,5 @@
 /**
- * Komentář v třídě hlavní
+ * Komentář v třídě T
  */
 
 public class Trida {
